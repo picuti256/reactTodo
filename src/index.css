@@ -1,0 +1,13 @@
+html {
+  background: linear-gradient(
+    195deg,
+    #1A1826 0%,
+    #323859 98%
+  );
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Helvetica, sans-serif;
+}
